@@ -22,7 +22,7 @@ body {
   background-color: white;
   border-radius: 0.5rem;
   max-width: 630px;
-  /* padding: 0; */
+  padding: 0;
 }
 
 .section {
@@ -40,6 +40,7 @@ body {
   color: hsl(179, 62%, 43%);
   font-weight: 700;
   font-size: 1.5rem;
+  padding-bottom: 1rem;
 }
 
 .cta-subtitle {
@@ -51,6 +52,27 @@ body {
 .subscription-section {
   color: hsl(204, 43%, 93%);
   background-color: hsl(179, 62%, 43%);
+}
+
+.subscription-title {
+  padding-bottom: 0.5rem;
+}
+
+.price {
+  display: table;
+  margin: 0;
+}
+
+.price-number {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.price-frequency {
+  color: hsl(179, 45%, 75%);
+  vertical-align: middle;
+  display: table-cell;
+  padding-left: 1rem;
 }
 
 .btn {
@@ -75,6 +97,7 @@ body {
   padding-left: 0;
   list-style-type: none;
   font-size: 0.8rem;
+  color: hsl(179, 45%, 85%);
 }
 
 /* Footer */
