@@ -21,12 +21,12 @@ body {
   color: hsl(218, 22%, 67%);
   background-color: white;
   border-radius: 0.5rem;
-  max-width: 630px;
+  max-width: 635px;
   padding: 0;
 }
 
 .section {
-  padding: 2rem;
+  padding: 2.5rem 2.5rem 2rem;
 }
 
 .subtitle {
@@ -47,15 +47,22 @@ body {
   color: hsl(71, 73%, 54%);
 }
 
+.cta-content {
+  margin-bottom: 0.5rem;
+  line-height: 1.75;
+  font-size: 0.98rem;
+}
+
 /* Subscription Section */
 
 .subscription-section {
   color: hsl(204, 43%, 93%);
   background-color: hsl(179, 62%, 43%);
+  border-bottom-left-radius: 0.5rem;
 }
 
 .subscription-title {
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
 }
 
 .price {
@@ -72,12 +79,21 @@ body {
   color: hsl(179, 45%, 75%);
   vertical-align: middle;
   display: table-cell;
-  padding-left: 1rem;
+  padding-left: 0.8rem;
+}
+
+.subscription-content {
+  font-size: 0.98rem;
+  margin-bottom: 2rem;
 }
 
 .btn {
   background-color: hsl(71, 73%, 54%);
   border: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.75rem;
+  box-shadow: 0rem 0.2rem 1rem rgba(64, 64, 64, 0.3);
 }
 
 .btn:hover,
@@ -91,12 +107,17 @@ body {
 .why-us-section {
   color: hsl(204, 43%, 93%);
   background-color: hsl(179, 47%, 52%);
+  border-bottom-right-radius: 0.5rem;
+}
+
+.why-us-title {
+  margin-bottom: 1rem;
 }
 
 .why-us-section ul {
   padding-left: 0;
   list-style-type: none;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   color: hsl(179, 45%, 85%);
 }
 
