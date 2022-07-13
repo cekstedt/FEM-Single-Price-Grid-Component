@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/cekstedt/single-price-grid-component)
-- Live Site URL: [Netlify]{https://incandescent-unicorn-df49e1.netlify.app/)
+- Live Site URL: [Netlify](https://incandescent-unicorn-df49e1.netlify.app/)
 
 ## My process
 
