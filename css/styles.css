@@ -14,10 +14,17 @@ body {
 
 /* Component */
 
-.card {
-  font-family: "Carla";
+.component {
+  font-family: "Karla";
   font-size: 16px;
   color: hsl(218, 22%, 67%);
+  background-color: white;
+  border-radius: 0.5rem;
+  max-width: 850px;
+}
+
+.section {
+  padding: 3rem;
 }
 
 /* Footer */
