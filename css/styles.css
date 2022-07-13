@@ -1,0 +1,33 @@
+/* Document */
+
+body {
+  background-color: hsl(206.25, 47.06%, 93.33%);
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Component */
+
+.card {
+  font-family: "Carla";
+  font-size: 16px;
+  color: hsl(218, 22%, 67%);
+}
+
+/* Footer */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
