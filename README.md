@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/cekstedt/single-price-grid-component)
+- Solution URL: [Github](https://github.com/cekstedt/FEM-Single-Price-Grid-Component)
 - Live Site URL: [Netlify](https://incandescent-unicorn-df49e1.netlify.app/)
 
 ## My process
